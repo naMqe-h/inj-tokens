@@ -1,0 +1,23 @@
+{
+  "name": "shit-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "send": "npx tsc && node dist/send.js",
+    "token": "npx tsc && node dist/token.js",
+    "wallet": "npx tsc && node dist/wallet.js",
+    "burn": "npx tsc && node dist/burn.js",
+    "admin": "npx tsc && node dist/admin.js",
+    "balance": "npx tsc && node dist/balance.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@injectivelabs/networks": "^1.14.4",
+    "@injectivelabs/sdk-ts": "^1.14.4",
+    "@injectivelabs/utils": "^1.14.4",
+    "typescript": "^5.3.3"
+  }
+}

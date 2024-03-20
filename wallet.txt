@@ -1,0 +1,6 @@
+Mnemonic:
+enter tape junk leader woman cloth oxygen impact physical imitate post carry
+
+privateKey:
+0x8ed70aeeaf35d21e8cab359b2655ea612568f1cd32281f0b16a04c7ec6081c23
+
